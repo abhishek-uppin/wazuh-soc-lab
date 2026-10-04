@@ -176,11 +176,7 @@ Screenshots below demonstrate the environment, monitoring, detection, and respon
 
 ---
 
-## 📚 Project Documentation
-
-**Detailed Project Documentation**
-
-[View the complete project documentation](./project/README.md)
+## 📚 Project Report
 
 **Security Investigation Report**
 
